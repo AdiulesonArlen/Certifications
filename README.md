@@ -12,3 +12,4 @@
 - HTML: Introdução ao Desenvolvimento de Páginas Web - IFRS - 20h - 2022.
 - HTML: Tabelas e Formulários - IFRS - 20h - 2022.
 - Formação Iniciante em Programação - Alura - 54h - 2024.
+- Java: criando sua primeira aplicação - Alura - 8h - 2024.
